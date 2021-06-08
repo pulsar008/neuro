@@ -55,7 +55,8 @@
 }
 
 .news-scroll a {
-    text-decoration: none
+    text-decoration: none;
+    text-decoration-color: black;
 }
 
 .dot {
