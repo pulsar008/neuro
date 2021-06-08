@@ -45,3 +45,26 @@
 .flag-icon-gb.flag-icon-squared {
 	background-image: url(../svg/gb11.svg);
 }
+
+
+
+
+.news {
+    width: 160px;
+    border-radius: 8px;
+}
+
+.news-scroll a {
+    text-decoration: none
+}
+
+.dot {
+    height: 6px;
+    width: 6px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 2px !important;
+    background-color: rgb(207, 23, 23);
+    border-radius: 50%;
+    display: inline-block
+}
