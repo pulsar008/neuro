@@ -1,7 +1,92 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-fr" viewBox="0 0 640 480">
-  <g fill-rule="evenodd" stroke-width="1pt">
-    <path fill="#fff" d="M0 0h640v480H0z"/>
-    <path fill="#00267f" d="M0 0h213.3v480H0z"/>
-    <path fill="#f31830" d="M426.7 0H640v480H426.7z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="510.549 10678 61.118 43.656">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #f5f6f6;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-9);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-10);
+      }
+
+      .cls-8 {
+        fill: #ef4854;
+      }
+
+      .cls-9 {
+        fill: #32499f;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Pfad_23" data-name="Pfad 23" d="M76,272.366A4.378,4.378,0,0,1,80.366,268h52.387a4.378,4.378,0,0,1,4.366,4.366V307.29a4.378,4.378,0,0,1-4.366,4.366H80.366A4.378,4.378,0,0,1,76,307.29Z" transform="translate(-76 -268)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rechteck_90" data-name="Rechteck 90" width="2069.289" height="2680.471"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rechteck_79" data-name="Rechteck 79" width="61.118" height="43.656"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect id="Rechteck_84" data-name="Rechteck 84" width="20.3" height="43.656"/>
+    </clipPath>
+    <clipPath id="clip-path-10">
+      <rect id="Rechteck_83" data-name="Rechteck 83" width="61.118" height="43.656" transform="translate(0 0)"/>
+    </clipPath>
+  </defs>
+  <g id="fr" transform="translate(510.549 10678)">
+    <g id="Gruppe_88" data-name="Gruppe 88" class="cls-1" transform="translate(0 0)">
+      <g id="Gruppe_87" data-name="Gruppe 87" class="cls-2" transform="translate(-165.892 -584.989)">
+        <g id="Gruppe_86" data-name="Gruppe 86" transform="translate(165.892 584.989)">
+          <g id="Gruppe_76" data-name="Gruppe 76" class="cls-3">
+            <g id="Gruppe_75" data-name="Gruppe 75" class="cls-3">
+              <path id="Pfad_20" data-name="Pfad 20" class="cls-4" d="M76,272.366A4.378,4.378,0,0,1,80.366,268h52.387a4.378,4.378,0,0,1,4.366,4.366V307.29a4.378,4.378,0,0,1-4.366,4.366H80.366A4.378,4.378,0,0,1,76,307.29Z" transform="translate(-76 -268)"/>
+            </g>
+          </g>
+          <g id="Gruppe_79" data-name="Gruppe 79" class="cls-3">
+            <g id="Gruppe_78" data-name="Gruppe 78" class="cls-1">
+              <g id="Gruppe_77" data-name="Gruppe 77" class="cls-3">
+                <path id="Pfad_21" data-name="Pfad 21" class="cls-5" d="M76,272.366A4.378,4.378,0,0,1,80.366,268h52.387a4.378,4.378,0,0,1,4.366,4.366V307.29a4.378,4.378,0,0,1-4.366,4.366H80.366A4.378,4.378,0,0,1,76,307.29Z" transform="translate(-76 -268)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Gruppe_82" data-name="Gruppe 82" class="cls-3">
+            <g id="Gruppe_81" data-name="Gruppe 81" class="cls-6" transform="translate(40.818)">
+              <g id="Gruppe_80" data-name="Gruppe 80" class="cls-7" transform="translate(-40.818)">
+                <rect id="Rechteck_82" data-name="Rechteck 82" class="cls-8" width="42.128" height="65.484" transform="translate(29.904 -10.914)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Gruppe_85" data-name="Gruppe 85" class="cls-3">
+            <g id="Gruppe_84" data-name="Gruppe 84" class="cls-6">
+              <g id="Gruppe_83" data-name="Gruppe 83" class="cls-7">
+                <rect id="Rechteck_86" data-name="Rechteck 86" class="cls-9" width="42.128" height="65.484" transform="translate(-10.914 -10.914)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>

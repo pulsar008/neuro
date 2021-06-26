@@ -1,5 +1,146 @@
-<svg xmlns="http://www.w3.org/2000/svg" id="flag-icon-css-de" viewBox="0 0 640 480">
-  <path fill="#ffce00" d="M0 320h640v160H0z"/>
-  <path d="M0 0h640v160H0z"/>
-  <path fill="#d00" d="M0 160h640v160H0z"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="208.291 10588 61.118 43.656">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-11, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-6);
+      }
+
+      .cls-7 {
+        fill: #272626;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-9);
+      }
+
+      .cls-9 {
+        fill: none;
+      }
+
+      .cls-10 {
+        clip-path: url(#clip-path-11);
+      }
+
+      .cls-11 {
+        fill-rule: evenodd;
+      }
+
+      .cls-12 {
+        fill: #ed1c24;
+      }
+
+      .cls-13 {
+        clip-path: url(#clip-path-16);
+      }
+
+      .cls-14 {
+        clip-path: url(#clip-path-18);
+      }
+
+      .cls-15 {
+        fill: #fed520;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Pfad_7" data-name="Pfad 7" d="M268,176.366A4.378,4.378,0,0,1,272.366,172h52.387a4.378,4.378,0,0,1,4.366,4.366V211.29a4.378,4.378,0,0,1-4.366,4.366H272.366A4.378,4.378,0,0,1,268,211.29Z" transform="translate(-268 -172)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rechteck_31" data-name="Rechteck 31" width="2069.289" height="2680.471"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rechteck_8" data-name="Rechteck 8" width="61.118" height="43.656"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rechteck_7" data-name="Rechteck 7" width="61.118" height="43.656" transform="translate(0 0)"/>
+    </clipPath>
+    <clipPath id="clip-path-6">
+      <rect id="Rechteck_11" data-name="Rechteck 11" width="61.118" height="14.625"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <rect id="Rechteck_14" data-name="Rechteck 14" width="61.118" height="21.828"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <rect id="Rechteck_16" data-name="Rechteck 16" width="61.118" height="41.473"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <rect id="Rechteck_23" data-name="Rechteck 23" width="61.118" height="17.462"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <rect id="Rechteck_25" data-name="Rechteck 25" width="61.118" height="27.721"/>
+    </clipPath>
+  </defs>
+  <g id="de" transform="translate(208.291 10588)">
+    <g id="Gruppe_25" data-name="Gruppe 25" class="cls-1" transform="translate(0 0)">
+      <g id="Gruppe_24" data-name="Gruppe 24" class="cls-2" transform="translate(-584.989 -375.441)">
+        <g id="Gruppe_23" data-name="Gruppe 23" transform="translate(584.989 375.441)">
+          <g id="Gruppe_5" data-name="Gruppe 5" class="cls-3">
+            <g id="Gruppe_4" data-name="Gruppe 4" class="cls-4">
+              <rect id="Rechteck_6" data-name="Rechteck 6" class="cls-5" width="82.946" height="65.484" transform="translate(-10.914 -10.914)"/>
+            </g>
+          </g>
+          <g id="Gruppe_8" data-name="Gruppe 8" class="cls-3">
+            <g id="Gruppe_7" data-name="Gruppe 7" class="cls-6">
+              <g id="Gruppe_6" data-name="Gruppe 6" class="cls-4">
+                <rect id="Rechteck_9" data-name="Rechteck 9" class="cls-7" width="82.946" height="36.453" transform="translate(-10.914 -10.914)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Gruppe_10" data-name="Gruppe 10" class="cls-3">
+            <g id="Gruppe_9" data-name="Gruppe 9" class="cls-8" transform="translate(0 10.914)">
+              <rect id="Rechteck_13" data-name="Rechteck 13" class="cls-9" width="61.118" height="21.828"/>
+            </g>
+          </g>
+          <g id="Gruppe_12" data-name="Gruppe 12" class="cls-3">
+            <g id="Gruppe_11" data-name="Gruppe 11" class="cls-10" transform="translate(0 1.528)">
+              <path id="Pfad_5" data-name="Pfad 5" class="cls-11" d="M189.183,196.472h63.3V177.7H187v18.772Z" transform="translate(-363.806 -166.786)"/>
+            </g>
+          </g>
+          <g id="Gruppe_15" data-name="Gruppe 15" class="cls-3">
+            <g id="Gruppe_14" data-name="Gruppe 14" class="cls-6" transform="translate(0 14.625)">
+              <g id="Gruppe_13" data-name="Gruppe 13" class="cls-4" transform="translate(0 -14.625)">
+                <rect id="Rechteck_18" data-name="Rechteck 18" class="cls-12" width="82.946" height="36.453" transform="translate(-10.914 3.711)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Gruppe_17" data-name="Gruppe 17" class="cls-3">
+            <g id="Gruppe_16" data-name="Gruppe 16" class="cls-13" transform="translate(0 26.194)">
+              <rect id="Rechteck_22" data-name="Rechteck 22" class="cls-9" width="61.118" height="17.462"/>
+            </g>
+          </g>
+          <g id="Gruppe_19" data-name="Gruppe 19" class="cls-3">
+            <g id="Gruppe_18" data-name="Gruppe 18" class="cls-14" transform="translate(0 15.934)">
+              <path id="Pfad_6" data-name="Pfad 6" class="cls-11" d="M189.183,203.29h63.3V184.3H187v18.99Z" transform="translate(-363.806 -173.386)"/>
+            </g>
+          </g>
+          <g id="Gruppe_22" data-name="Gruppe 22" class="cls-3">
+            <g id="Gruppe_21" data-name="Gruppe 21" class="cls-6" transform="translate(0 29.031)">
+              <g id="Gruppe_20" data-name="Gruppe 20" class="cls-4" transform="translate(0 -29.031)">
+                <rect id="Rechteck_27" data-name="Rechteck 27" class="cls-15" width="82.946" height="36.453" transform="translate(-10.914 18.117)"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
 </svg>
