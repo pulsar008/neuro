@@ -11,3 +11,11 @@ Color code
 
 Grün 3fbbc0
 Blau
+
+
+Doctor pic < 30kb
+Slide pci < 160 kb
+
+apple touch < 2kb
+favicon < 500b
+logo < 
