@@ -58,6 +58,17 @@
     text-decoration: none;
 }
 
+.dotblack {
+    height: 4px;
+    width: 4px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-top: 3px !important;
+    background-color: rgb(0, 0, 0);
+    border-radius: 50%;
+    display: inline-block
+}
+
 .dot {
     height: 6px;
     width: 6px;
@@ -91,4 +102,18 @@
     margin: 0 15px 0 0;
     padding: 6px 15px;
   }
+}
+
+
+/* centered columns styles */
+.row-centered {
+    text-align:center;
+}
+
+.col-right {
+    text-align:right;
+}
+
+.col-left {
+    text-align:left;
 }
