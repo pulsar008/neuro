@@ -18,4 +18,8 @@ Slide pci < 160 kb
 
 apple touch < 2kb
 favicon < 500b
-logo < 
+logo <
+
+
+
+Page traduction
