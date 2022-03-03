@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script type="text/javascript">
+    console.log("Langu")
+var language = navigator.language || navigator.userLanguage; 
+language = language.substring( 0, 2 );
+    console.log("Langu language" + language)
+if (language == "fr"){  
+    window.location.href = "fr/index.html";  // fr
+} else {  
+    window.location.href = "de/index.html";  // everyone else : german
+}
+</script>
+</body>
+</html>
+
+
