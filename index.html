@@ -1,13 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+        <title>Neurologie Eupen sapj</title>
+        <meta content="" name="description">
+        <meta content="" name="keywords">
+
+        <!-- Favicons -->
+        <link href="assets/img/favicon.png" rel="icon">
+        <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+</head>
+    
+    
 <body>
 <script type="text/javascript">
 
 //////////////
 /// CONFIG ///
+/// ToDo use the correct uri     ////
 //////////////
 
-var defaultLocale = 'fr';
+var defaultLocale = 'de';
 var routing = {
   "de": 'https://demo.chago.de/neuro/de',
   "fr": 'https://demo.chago.de/neuro/fr'
@@ -54,26 +70,21 @@ function redirectToRoute(locale) {
 
 var locale = getQueryParam('locale');
 var saveLocale = true;
-if (enableLog) console.log('url locale: ' + locale);
 
 if (locale == null) {
   locale = localStorage.getItem('locale');
-  if (enableLog) console.log('stored locale: ' + locale);
   if (locale != null) saveLocale = false;
 }
 
 if (locale == null) {
   locale = getBrowserLanguage();
-  if (enableLog) console.log('browser locale: ' + locale);
 }
 
 if (saveLocale === true) {
-  if (enableLog) console.log('storing locale: ' + locale);
   localStorage.setItem('locale', locale);
 }
 
 if (locale == null) {
-  if (enableLog) console.log('will use default ' + defaultLocale);
   locale = defaultLocale;
 }
 locale = locale.toLowerCase();
