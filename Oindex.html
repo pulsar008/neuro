@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+        <title>Neurologie Eupen sapj</title>
+        <meta content="" name="description">
+        <meta content="" name="keywords">
+
+        <!-- Favicons -->
+        <link href="assets/img/favicon.png" rel="icon">
+        <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+</head>
+    
+    
+<body>
+<script type="text/javascript">
+
+//////////////
+/// CONFIG ///
+/// ToDo use the correct uri     ////
+//////////////
+
+var defaultLocale = 'de';
+var routing = {
+  "de": 'https://demo.chago.de/neuro/de',
+  "fr": 'https://demo.chago.de/neuro/fr'
+};
+
+var enableLog = true;
+
+/////////////////
+/// FUNCTIONS ///
+/////////////////
+
+function getBrowserLanguage() {
+  if (!navigator) return null;
+  if (navigator.languages && navigator.languages.length > 0) return navigator.languages[0];
+  if (navigator.userLanguage) return navigator.userLanguage;
+  if (navigator.browserLanguage) return navigator.browserLanguage;
+  return navigator.language;
+}
+
+function getQueryParam(name) {
+  var url = window.location.href;
+  name = name.replace(/[\[\]]/g, '\\$&');
+  var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+      results = regex.exec(url);
+  if (!results) return null;
+  if (!results[2]) return '';
+  return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+
+function redirectToRoute(locale) {
+    var route = routing[locale];
+    if (route != null) {
+        window.location.replace(route);
+        return;
+  }
+  var parts = locale.split('-');
+  if (parts == null || parts.length <= 1) return;
+  redirectToRoute(parts[0]);
+}
+
+////////////////
+/// REDIRECT ///
+////////////////
+
+var locale = getQueryParam('locale');
+var saveLocale = true;
+
+if (locale == null) {
+  locale = localStorage.getItem('locale');
+  if (locale != null) saveLocale = false;
+}
+
+if (locale == null) {
+  locale = getBrowserLanguage();
+}
+
+if (saveLocale === true) {
+  localStorage.setItem('locale', locale);
+}
+
+if (locale == null) {
+  locale = defaultLocale;
+}
+locale = locale.toLowerCase();
+redirectToRoute(locale);
+</script>
+</body>
+</html>
+
+

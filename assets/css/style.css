@@ -181,7 +181,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo img {
-  max-height: 50px;
+  max-height: 52px;
 }
 
 /**
@@ -1454,6 +1454,9 @@ section {
 # Frequently Asked Questioins
 --------------------------------------------------------------*/
 .faq {
+  background: #3fbbc0;
+  color: #fff;
+  background-size: cover;
   padding: 60px 0;
 }
 
@@ -1477,7 +1480,7 @@ section {
   font-weight: 400;
   padding-left: 25px;
   cursor: pointer;
-  color: #32969a;
+  color: #fff;
   transition: 0.3s;
 }
 
@@ -1498,11 +1501,11 @@ section {
 }
 
 .faq .faq-list .collapsed {
-  color: black;
+  color: floralwhite;
 }
 
 .faq .faq-list .collapsed:hover {
-  color: #3fbbc0;
+  color: #d9f1f2;
 }
 
 .faq .faq-list .collapsed .icon-show {
