@@ -422,7 +422,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 65vh; /* by Guy TODO for hero */
+  height: 70vh; /* by Guy TODO for hero */
   background-color: rgba(60, 60, 60, 0.8);
   overflow: hidden;
   position: relative;
@@ -437,7 +437,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .carousel-item {
-  background-size: cover;
+  background-size: 100% 100%;
   background-position: center;
   background-repeat: no-repeat;
   display: flex;
@@ -558,7 +558,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media (max-width: 992px) {
   #hero {
-    height: 65vh;
+    height: 70vh;
   }
   #hero .container {
     margin-top: 100px;
