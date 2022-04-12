@@ -566,17 +566,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 @media (max-width: 500px) {
-  #hero {
-    height: 50vh;
+    #hero {
+    height: 30vh;
   }
-  #hero .carousel-item {
-    height: 50vh;
+  
+    #hero .carousel-item {
+    height: 30vh;
   }
 }
 
 @media (max-width: 768px) {
   #hero {
-    height: 50vh;
+    height: 60vh;
   }
       
   #hero h2 {
@@ -1470,7 +1471,7 @@ section {
   background: #3fbbc0;
   color: #fff;
   background-size: cover;
-  padding: 60px 0;
+  padding: 20px 0;
 }
 
 .faq .faq-list {
@@ -1480,8 +1481,8 @@ section {
 
 .faq .faq-list li {
   border-bottom: 1px solid #d9f1f2;
-  margin-bottom: 20px;
-  padding-bottom: 20px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
 }
 
 .faq .faq-list .question {
