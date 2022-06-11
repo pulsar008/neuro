@@ -115,19 +115,3 @@
 .col-left {
     text-align:left;
 }
-
-
-
-
-
-.service-icon1 {
-	background-image: url(../svg/1.svg);
-}
-
-.flag-icon-gb {
-	background-image: url(../svg/gb.svg);
-}
-
-.flag-icon-gb.flag-icon-squared {
-	background-image: url(../svg/gb11.svg);
-}
